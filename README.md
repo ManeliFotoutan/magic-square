@@ -3,10 +3,13 @@
 A magic square is a square grid of numbers where the sum of the numbers in each row, column, and diagonal is the same. The numbers in a magic square are usually consecutive integers starting from 1, and each number appears exactly once.
 
 Here's an example of a 3x3 magic square:
+```
   8  1  6
   3  5  7
   4  9  2
+```
 In this magic square, the sum of each row, column, and diagonal is 15.
+
 
 This Python script generates a magic square of odd or even order using Pygame library.
 
